@@ -145,6 +145,3 @@ Contributions are welcome! Suggested ways to contribute:
 * Improve visualization and add configurable CLI
 
 Please open issues or pull requests and describe changes clearly.
-
-
-*Created with ❤️ — update the sections marked (optional) to better match your repository.*
