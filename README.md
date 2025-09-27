@@ -40,25 +40,6 @@ pip install -r requirements.txt
 > pip install numpy opencv-python scikit-learn scipy matplotlib tqdm pandas
 > ```
 
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone <your-repo-url>
-cd <your-repo>
-```
-
-2. (Optional) Create a virtual environment and activate it:
-
-```bash
-python -m venv venv
-source venv/bin/activate   # Linux / macOS
-venv\Scripts\activate    # Windows
-```
-
-3. Install dependencies (see previous section).
-
 ## Usage
 
 ### Run the notebook
